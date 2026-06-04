@@ -1,14 +1,14 @@
-**Star Assistant**\
+**Star Assistant**
 
 A simple Slack Bot with simple commands! Made as a try on doing a project for Stardance\
 
-_**COMMANDS**_\
+_**COMMANDS**_
 
-/star-help -- Opens a list of commands\
+/star-help -- Opens a list of commands
 
-/star-ping -- Checks bot latency\
+/star-ping -- Checks bot latency
 
-/star-catfact -- Tells a cat fact\
+/star-catfact -- Tells a cat fact
 
-/star-joke -- Tells a joke\
+/star-joke -- Tells a joke
 
